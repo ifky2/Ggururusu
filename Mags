@@ -1,0 +1,7 @@
+echo "# Ggururusu" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ifky2/Ggururusu.git
+git push -u origin main
